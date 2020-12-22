@@ -1,6 +1,7 @@
 package com.jacocoexample.dem.model;
 
 public class Person {
+    /*empty constructor */
     public Person() {
     }
 
